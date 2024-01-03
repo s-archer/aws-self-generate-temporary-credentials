@@ -1,0 +1,1 @@
+# aws-self-generate-temporary-credentials
